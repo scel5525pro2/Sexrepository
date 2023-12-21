@@ -6,7 +6,7 @@
             {
                 "name": "volume",
                 "label": "Volume",
-                "value": 1
+                "value": 0.2
             }
         ]
     }
