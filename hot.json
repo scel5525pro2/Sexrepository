@@ -1,0 +1,13 @@
+{
+    "component":
+    {
+        "properties":
+        [
+            {
+                "name": "volume",
+                "label": "Volume",
+                "value": 1
+            }
+        ]
+    }
+}
